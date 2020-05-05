@@ -35,6 +35,11 @@ gem 'dotenv-rails'
 gem 'devise'
 
 gem 'milia'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+#gem 'bootstrap-datepicker-rails'
+
+
 
 
 
