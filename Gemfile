@@ -26,6 +26,9 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
@@ -37,6 +40,8 @@ gem 'devise'
 gem 'milia'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'bootstrap-datepicker-rails'
 #gem 'bootstrap-datepicker-rails'
 
 
